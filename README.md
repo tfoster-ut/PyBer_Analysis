@@ -17,8 +17,8 @@ Rural and Suburban trips appear to follow a similar pattern with each city type 
 ## Summary
 
 Based on this analysis the following recommendations are:
-    1. Increase driver counts during February to maxmize the oppotunity for rides that occurs near the end of the month.
-    2. Increase overall driver count and strive to maintain a driver count of 1.4 times the amount of rides.  This will drive down the average but will generate more revenue overall
-    3. We should look into other data points:
-        3A. Trip distance by city type
-        3B. Driver availability by city type (How often do customer seek a ride but one is not available?)
+* Increase driver counts during February to maxmize the oppotunity for rides that occurs near the end of the month.
+* Increase overall driver count and strive to maintain a driver count of 1.4 times the amount of rides.  This will drive down the average but will generate more revenue overall
+* We should look into other data points:
+    * Trip distance by city type
+    * Driver availability by city type (How often do customer seek a ride but one is not available?)
