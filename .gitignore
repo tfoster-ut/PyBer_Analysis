@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore practice files
+/matplotlib_practice.ipynb
+/PyBer_rider_data.ipynb
+
 # Distribution / packaging
 .Python
 build/
